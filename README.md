@@ -5,8 +5,6 @@
 **Project Name:** Hazard_Map  
 **Author:** Pirate-Emperor
 
-![Hazard_Map Logo](hazard_map_logo.png)
-
 ## Description
 
 Hazard_Map is a comprehensive repository developed by Pirate-Emperor that focuses on generating hazard maps from various lunar models, including Lunar_ISR, Crater_Detection, Height_Map, DTM_3D, Slope, Shadow, and Hazard_Map itself. This project combines the outputs of these models to create detailed hazard maps of the lunar terrain. Hazard maps play a crucial role in lunar exploration by identifying potential risks and hazardous areas for mission planning and research.
