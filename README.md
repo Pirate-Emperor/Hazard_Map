@@ -21,6 +21,8 @@ Hazard_Map integrates the following models to derive hazard maps:
 6. **Shadow:** Generates shadow maps based on lighting conditions and lunar features.
 7. **Hazard_Map:** Combines the outputs of various models to create a comprehensive hazard map.
 
+### Screenshots
+
 ### Hazard
 ![screenshot15](images/hazard_map.png)
 ![screenshot16](images/hazard_map_critical.png)
